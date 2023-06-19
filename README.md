@@ -11,8 +11,12 @@ FastAPI: FastAPI is a modern, fast (high-performance), web framework for buildin
 PostgreSQL: PostgreSQL is a powerful open-source relational database management system used for storing and managing the application's data.
 ## Setup Instructions
 Clone the repository to your local machine.
+
 Set up a PostgreSQL database and update the database configuration in the project.
+
 Install the project dependencies using pip install -r requirements.txt.
+
 Run the application using uvicorn main:app --reload.
+
 Access the application in your web browser at http://localhost:8000.
 
